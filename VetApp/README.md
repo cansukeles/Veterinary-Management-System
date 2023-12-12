@@ -143,4 +143,7 @@ https://api.postman.com/collections/31485402-034d6637-60d4-44fa-8774-8311690d083
 
 You can see the UML Diagram below for the application.
 
+<img width="1048" alt="Vet System UML Diagram" src="https://github.com/cansukeles/Veterinary-Management-System/assets/142833559/41f3cfe7-3b00-4cb3-b1fc-50892ddc53c8">
+
+
 
